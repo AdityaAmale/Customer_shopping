@@ -1,0 +1,1 @@
+This project analyzes customer shopping data using SQL, Python, and Power BI to uncover purchasing patterns and customer behavior. SQL was used for data extraction and transformation, while Python handled data cleaning and exploratory analysis. An interactive Power BI dashboard was created to visualize key metrics, trends, and insights that support data-driven business decisions.
